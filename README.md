@@ -11,9 +11,9 @@ This iteration allows for nearly full metal construction, optional flipping of t
 ![DooKi3_Upper Assembly](Upper/Images/Upper1.png)
 
 ## DooKi3 Lower Generative Assembly (Recommended):
-![Lower_Gen1](Lower-Generative_SLM/Images/Lower_Gen1.png)
-![Lower_Gen2](Lower-Generative_SLM/Images/Lower_Gen2.png)
-![Lower_Gen3](Lower-Generative_SLM/Images/Lower_Gen3.png)
+![Lower_Gen1](Lower-SLM_Generative/Images/Lower_Gen1.png)
+![Lower_Gen2](Lower-SLM_Generative/Images/Lower_Gen2.png)
+![Lower_Gen3](Lower-SLM_Generative/Images/Lower_Gen3.png)
 
 ## DooKi3 Lower Fan Plate and Standoffs Assembly (Cheaper):
 ![Lower_FanPlate1](Lower-FanPlate_and_Standoffs/Images/Lower_FanPlate1.png)
