@@ -16,6 +16,6 @@ This iteration allows for nearly full metal construction, optional flipping of t
 ![Lower_Gen3](MP_DooKi3_Toolhead_V2/Lower-Generative_SLM/Images/Lower_Gen3.png)
 
 ## DooKi3 Lower Fan Plate and Standoffs Assembly (Cheaper):
-![Lower_FanPlate1](Lower - Fan Plate and Standoffs/Images/Lower_FanPlate1.png)
+![Lower_FanPlate1](MP_DooKi3_Toolhead_V2/Lower-FanPlate_and_Standoffs/Images/Lower_FanPlate1.png)
 ![Lower_FanPlate2](MP_DooKi3_Toolhead_V2/Lower-FanPlate_and_Standoffs/Images/Lower_FanPlate2.png)
 ![Lower_FanPlate3](MP_DooKi3_Toolhead_V2/Lower-FanPlate_and_Standoffs/Images/Lower_FanPlate3.png)
