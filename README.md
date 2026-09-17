@@ -2,7 +2,7 @@
 Here lives an updated version of my DooKi3 Toolhead.  
 
 This iteration allows for nearly full metal construction, optional flipping of the Y cross rail which allows any rail thicknesses to use the same Y spacers, new version of the K3rabiner, greater compatibility with extruders including DFA, and greater stiffness through the use of generatively designed and SLM printable bracing components.
-![DooKi3_Upper Assembly](Upper/Images/Full.jpg)
+![DooKi3_Upper Assembly](Images/Full.jpg)
 
 ## DooKi3_Upper Assembly:
 The upper assembly is shared with both other versions.  It uses standoffs to bolt to the main X party plate.  A new version of the K3rabiner PCB can be mounting between the X and Y plates which allows for greater compatibility with more extruders, including DFA. The extra Y plate allows for an inverted Y rail configuration which provides the option for a one size fits all approach for Y spacers.  
